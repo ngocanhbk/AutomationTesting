@@ -1,0 +1,2 @@
+Triangle.Triangle()
+Triangle.checkTriangle(int[0;100],int[0;100],int[0;100])

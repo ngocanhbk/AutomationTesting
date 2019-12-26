@@ -1,0 +1,4 @@
+ErrorZero.ErrorZero()
+ErrorZero.methodAux(int,int)
+ErrorZero.soNT(int)
+ErrorZero.getListNT(int[])
