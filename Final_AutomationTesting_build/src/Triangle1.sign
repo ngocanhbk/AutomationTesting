@@ -1,0 +1,4 @@
+Triangle1.Triangle1()
+Triangle1.Triangle1(int,int,int)
+Triangle1.Triangle1(int,int)
+Triangle1.Triangle1(int)
