@@ -7,7 +7,7 @@ public class MainInstrumentCode {
 	static String relativePath = "..\\Final_AutomationTesting\\src\\";
 	public static void main(String[] args) {
 	
-		String[] inputs = { "Example" };
+		String[] inputs = { "Example","Triangle","InsuranceProgram" };
 		// instrument code, phân tích code và tạo chữ kí, path..(.path, .sign, .tgt)
 		for (String str : inputs) {
 			String[] srcfiles = {relativePath + str + ".oj" };
